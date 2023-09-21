@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎞 I’m a cinema & music lover.<br>A creative guy excited with new ideas.<br>💻 Currently learning Next.js, Astro & LLM’s management.<br>🌟 I’m looking for new experiences.
+🎞 I’m a cinema & music lover.<br>🧠 A creative guy excited for new ideas.<br>💻 Currently learning Next.js, Astro & LLM’s management.<br>🌟 I’m looking for new experiences.
 
 
 ## 🌐 Socials:
